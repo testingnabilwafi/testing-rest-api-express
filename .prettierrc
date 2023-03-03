@@ -6,7 +6,8 @@
   "endOfLine": "lf",
   "quoteProps": "preserve",
   "proseWrap": "preserve",
-  "semi": true,
+  "semi": false,
   "tabWidth": 2,
-  "trailingComma": "none"
+  "trailingComma": "none",
+  "singleQuote": true
 }
